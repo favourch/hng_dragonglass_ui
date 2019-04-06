@@ -1,10 +1,6 @@
 <!DOCTYPE html>
 <html>
-<<<<<<< HEAD
-	<?php include'includes/head.php'; ?>
-=======
 	<?php include 'includes/head.php'; ?>
->>>>>>> d1a41ac65f815a5b663f5918157726f7033a0b83
 	<link rel="stylesheet" href="style.css" type="text/css">
 	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <body>
@@ -19,10 +15,6 @@
 					<div class="row">
 						<div class="col-sm-12">
 							<div class="col-sm-12 status-area">
-<<<<<<< HEAD
-								<input class="form-control" type="text" name="blog_title" placeholder="Title">
-=======
->>>>>>> d1a41ac65f815a5b663f5918157726f7033a0b83
 								<div class="toolbar">
 									<button class="tool fa fa-underline"  onclick="document.execCommand('underline', false, '');"></button>
 									<button class="tool fa fa-italic" onclick="document.execCommand('italic', false, '');"></button>
