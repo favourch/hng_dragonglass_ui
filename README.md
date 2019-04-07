@@ -4,6 +4,55 @@
 Frontend Work for team_dragon_glass HNG Internship 5.
 
 ---
+---
+
+## Folder Structure
+
+ 
+
+```
+
+hng/
+
+├── bootstrap-3.3.7-dist/
+
+│   ├── css/
+
+|   |── fonts/
+
+│   └── js/
+
+├── images/
+
+├── includes/
+
+│   ├── footer.php
+
+|   |── head.php
+
+│   └── nav.php
+
+├── Welcome.php
+
+├── app.js
+
+├── draft.php
+
+├── index.php
+
+├── journal.php
+
+├── post.php
+
+├── style.css
+
+└── style_welcome.css
+
+ 
+
+```
+
+---
 
 ## Contributing
 
